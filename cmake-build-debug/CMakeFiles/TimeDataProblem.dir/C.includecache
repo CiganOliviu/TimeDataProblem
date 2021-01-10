@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/cigan/Personal/GithubProjects/TimeDataProblem/TimeDataProblem.h
+
+/media/cigan/Personal/GithubProjects/TimeDataProblem/main.c
+assert.h
+-
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+TimeDataProblem.h
+/media/cigan/Personal/GithubProjects/TimeDataProblem/TimeDataProblem.h
+

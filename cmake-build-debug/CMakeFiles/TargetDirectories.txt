@@ -1,0 +1,3 @@
+/media/cigan/Personal/GithubProjects/TimeDataProblem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/cigan/Personal/GithubProjects/TimeDataProblem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/cigan/Personal/GithubProjects/TimeDataProblem/cmake-build-debug/CMakeFiles/TimeDataProblem.dir
